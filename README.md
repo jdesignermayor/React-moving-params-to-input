@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/LkUGS0E8jbF62pudnD/giphy.gifD)
+![](https://media.giphy.com/media/LkUGS0E8jbF62pudnD/giphy.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
